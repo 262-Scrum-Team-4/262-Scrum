@@ -3,3 +3,6 @@
 #Majoring in Applied technology
 #Working as a DevOps Engineer but using bitbucket for code repository
 #
+#Name: Alex  
+#Fun Fact: I am colorblind
+#
