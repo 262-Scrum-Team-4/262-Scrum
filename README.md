@@ -1,8 +1,7 @@
-# 262-Scrum
-#My name is Craigen Chitate
-#Majoring in Applied technology
-#Working as a DevOps Engineer but using bitbucket for code repository
-#
-#Name: Alex  
-#Fun Fact: I am colorblind
-#
+# Josiah Fun Facts
+
+`Name: Josiah. `
+
+`Fun Fact: Only and last time I been to the ocean was 2008. `
+
+`Profession: Electrical Engineer. `
