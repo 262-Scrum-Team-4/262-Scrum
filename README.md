@@ -6,3 +6,16 @@
 #Name: Alex  
 #Fun Fact: I am colorblind
 #
+#
+
+
+
+
+
+# Josiah Fun Facts
+
+`Name: Josiah. `
+
+`Fun Fact: Only and last time i been to the ocean was 2008. `
+
+`Profession: Electrical Engineer. `
