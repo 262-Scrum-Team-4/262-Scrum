@@ -19,3 +19,6 @@
 `Fun Fact: Only and last time i been to the ocean was 2008. `
 
 `Profession: Electrical Engineer. `
+
+**Ayden Overson**  
+Fun Fact: I am a Certified Firearms Instructor
