@@ -25,4 +25,4 @@ Fun Fact: I am a Certified Firearms Instructor
 
 
 #KAREN 
-Fun fact I am alergic to pork and shelfish.
+Fun fact I am alergic to pork and shelfish...
